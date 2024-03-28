@@ -17,25 +17,25 @@
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <Representation id="video=226400" bandwidth="226400" width="320" height="180" codecs="avc1.4D401E" scanType="progressive">
       <SegmentTemplate timescale="600" initialization="Star_GOLD_HD-$RepresentationID$.dash" media="Star_GOLD_HD-$RepresentationID$-$Number$.m4s" startNumber="213953682">
-      <SegmentTimeline><S t="1026918556800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
+      <SegmentTimeline><S t="1026977668800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=457600" bandwidth="457600" width="480" height="270" codecs="avc1.4D401E" scanType="progressive">
       <SegmentTemplate timescale="600" initialization="Star_GOLD_HD-$RepresentationID$.dash" media="Star_GOLD_HD-$RepresentationID$-$Number$.m4s" startNumber="213953682">
-      <SegmentTimeline><S t="1026918556800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
+      <SegmentTimeline><S t="1026977668800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=877600" bandwidth="877600" width="640" height="360" codecs="avc1.4D401E" scanType="progressive">
       <SegmentTemplate timescale="600" initialization="Star_GOLD_HD-$RepresentationID$.dash" media="Star_GOLD_HD-$RepresentationID$-$Number$.m4s" startNumber="213953682">
-      <SegmentTimeline><S t="1026918556800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
+      <SegmentTimeline><S t="1026977668800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=1297600" bandwidth="1297600" width="854" height="480" codecs="avc1.4D401E" scanType="progressive">
       <SegmentTemplate timescale="600" initialization="Star_GOLD_HD-$RepresentationID$.dash" media="Star_GOLD_HD-$RepresentationID$-$Number$.m4s" startNumber="213953682">
-      <SegmentTimeline><S t="1026918556800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
+      <SegmentTimeline><S t="1026977668800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=1927600" bandwidth="1927600" width="960" height="540" codecs="avc1.4D401F" scanType="progressive">
       <SegmentTemplate timescale="600" initialization="Star_GOLD_HD-$RepresentationID$.dash" media="Star_GOLD_HD-$RepresentationID$-$Number$.m4s" startNumber="213953682">
-      <SegmentTimeline><S t="1026918556800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
+      <SegmentTimeline><S t="1026977668800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=2452400" bandwidth="2452400" width="1280" height="720" codecs="avc1.4D401F" scanType="progressive">
       <SegmentTemplate timescale="600" initialization="Star_GOLD_HD-$RepresentationID$.dash" media="Star_GOLD_HD-$RepresentationID$-$Number$.m4s" startNumber="213953682">
-      <SegmentTimeline><S t="1026918556800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
+      <SegmentTimeline><S t="1026977668800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <Representation id="video=3187600" bandwidth="3187600" width="1920" height="1080" codecs="avc1.4D4028" scanType="progressive">
       <SegmentTemplate timescale="600" initialization="Star_GOLD_HD-$RepresentationID$.dash" media="Star_GOLD_HD-$RepresentationID$-$Number$.m4s" startNumber="213953682">
-      <SegmentTimeline><S t="1026918556800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
+      <SegmentTimeline><S t="1026977668800" d="4800" r="1874"/></SegmentTimeline></SegmentTemplate></Representation>
       <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011"/>
       <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="PlayReady"/>
       <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" value="Widevine"><cenc:pssh>AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECV0JUTrOFbClQu3P0mdJMI4sMyNsAY=</cenc:pssh></ContentProtection>
